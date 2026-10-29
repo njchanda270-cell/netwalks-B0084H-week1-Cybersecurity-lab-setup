@@ -10,4 +10,24 @@ Task: Setup Kali and Windows in VirtualBox
 -Internet is working on kali
 
 ##My Screenshots
-I will upload my screenshots in the images folder.
+
+### 1. NAT Network
+![Network Manager](images/Network%20Manager.png)
+
+### 2. Kali Settings
+![Kali Settings](images/Kali%20Settings.png)
+
+### 3. Windows Settings
+![Windows Settings](images/Windows%20Settings.png)
+
+### 4. Kali IP Address
+![IP a](images/IP%20a.png)
+
+### 5. Windows IP Address
+![Windows IP](images/Windows%20IP.png)
+
+### 6. Kali to Windows Ping
+![Kali to Windows](images/Kali%20to%20Windows.png)
+
+### 7. Windows to Kali Ping
+![Windows to Kali](images/Windows%20to%20Kali.png)
